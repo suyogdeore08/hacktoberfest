@@ -1,3 +1,8 @@
+#### Name: Suyog
+ - Place: Nashik, India
+ - Bio: Software engineer. Under Graduate.
+ - GitHub: [suyogdeore08](https://github.com/suyogdeore08)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
